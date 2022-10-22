@@ -1,11 +1,12 @@
-# (Dataset Exploration Title)
-## by (your name here)
+This project has two files. 
+The first one is the Exploratory data visualization, using Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables.
+The second one is the Explanatory data visualization, with a short presentation with some of the findings of the first part.
+The dataset used for this project is the Ford GoBike System Data. This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 
 
 ## Dataset
 >
 Source: https://www.google.com/url?q=https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv&sa=D&source=editors&ust=1666040182932107&usg=AOvVaw3jEWO5Tm88HvuauukCJH2y
-The dataset is the Ford GoBike System Data sugested by the course.
 Some of the wrangling steps realized in this dataset was the change of type of some columns such as the gender, the ids and the start and end time. A new column was also added using the lagitude and longitude to make a distance column.
 A new column was also made to make it easier to look at the stations names
 
