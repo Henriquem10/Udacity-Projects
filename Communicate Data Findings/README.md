@@ -13,16 +13,27 @@ A new column was also made to make it easier to look at the stations names
 ## Summary of Findings
 
 >The majority of the users are male and the minority the 'Other' gender option, with females being in the middle
+
 >There are way more users that are subscribed to the service
+
 >most users don't seem to use the bike share function
+
 >Thursday and Tuesday are the most popular days of the service
+
 >Market St and San Francisco Caltrain Station 2 are the most popular stations that the service is used
+
 >Users that are customers have a higher average time per run
+
 >females appear to run longer than males. But users with the 'Other' as gender run even longer than both of then 
+
 >The runs are longer on the weekends even though the weekend are the days with less users than the others
+
 >Most of the runs have a distance between 1 and 2 km but these distances can't be taken at face value because it's only the information of the start and finish and not the route.
+
 >everyday the 'other' gender type is the one with the most time in seconds followed by females.
+
 >even though the weekends have more time in seconds on rides, it makes sense that it has less distance in total then others because it has less users in total using the service
+
 >Even though the service has less users during the weekends, those users are the ones that have the longest time using it. Maybe thats why it has less users using?
 
 
